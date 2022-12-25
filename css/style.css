@@ -8,13 +8,13 @@ body {
     background: rgba(210, 210, 210, 0.1);
   }
 
-  #sidebar #header-link {
+#sidebar #header-link {
     text-decoration: none;
 }
 
 #sidebar #header-link .head-bg:hover {
-    color: rgba(59, 61, 61, 1);
-    background-color: rgba(54, 208, 249, 0.4);
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 1);
 }
 
 #sidebar .head-bg {
@@ -42,7 +42,7 @@ header {
     top: 0;
     left: 0;
     overflow-x: hidden;
-    border-right: 5px solid rgb(106, 90, 205);
+    border-right: 5px solid rgb(14, 12, 11);
 }
 
 .nav-link {
